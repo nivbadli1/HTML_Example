@@ -1,7 +1,11 @@
-h1 {
+body{
+  h1 {
     color: blue;
   }
   
   p {
     font-size: 20px;  
   }
+
+  background-color: lightblue;
+}
